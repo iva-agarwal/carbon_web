@@ -1,0 +1,19 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+    font-family: 'Aberforth Rough';
+    src: local('Aberforth Rough'),
+         url('../public/fonts/Aberforth\ Rough.woff') format('woff'),;
+  }
+  @font-face {
+    font-family: 'Aberforth outline';
+    src: local('Aberforth outline'),
+         url('../public/fonts/Aberforth\ outline.woff') format('woff'),;
+  }
+  @font-face {
+    font-family: 'Aberforth demo';
+    src: local('Aberforth demo'),
+         url('../public/fonts/Aberforth\ Demo.woff') format('woff'),;
+  }
